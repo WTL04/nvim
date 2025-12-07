@@ -1,3 +1,4 @@
+-- live preview for web programs (html/css/js, md, svg) files
 return {
   "brianhuster/live-preview.nvim",
   dependencies = {
